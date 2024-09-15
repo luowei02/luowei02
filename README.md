@@ -1,21 +1,16 @@
-- 👋 I’m LuoWei!A student from iat,University of Science and Technology of China.
+- 👋 I’m LuoWei! A student from iat,University of Science and Technology of China.
 - Hope to learn the advanced tech in digital integrated circuit chips and electrical design automation with you! 
 - 📫 E-mail:luowei@ustc.edu
 
+ ## News：
+ - [2024.09]实验室罗威博士的论文[**“···”**](https://luowei02.github.io/)被CCF-A类会议**ICCAD**接受！ 
 
- <section class="section">
-        <div class="container">
-            <p class="title is-4 " style="margin-top: -20px; font-size: 1.6rem;font-family: Arial;">新闻</p>
-            <div class="column  has-text-justified" style="max-height: 400px; overflow: auto;">
-                
-                [2024.05] 实验室<b>周正阳</b>研究员在第五届空间数据智能学术会议SpatialDI 2024作优博论坛报告(
-                <a href="http://home.ustc.edu.cn/~zzy0929/Home/STFO.pdf">PPT</a>
-                )！<br>
-                
-            </div>
-        </div>
-    </section>
-- 更多个人信息请访问我的学术主页: https://luowei02.github.io/
+ ## Educations：
+ - 2024.06 - 2027.04(now) M.S. University of Science and Technology of China, Integrated Circuit Engineering.
+ - 2020.09 - 2024.06 B.S. Nanjing University of Science and Technology, Nano Material and Technology.
+
+### For more information, please visit my academic homepage: https://luowei02.github.io/
+
 <!---
 luowei02/luowei02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
