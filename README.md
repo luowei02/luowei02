@@ -1,4 +1,4 @@
-## 👨‍🎓Educations：
+## 📖Educations：
  - 2024.09-now: Working in University of Science and Technology of China, Integrated Circuit Engineering for a  M.S. degree.
  - 📫 E-mail:luowei@ustc.edu
  ## 🎖️News：
