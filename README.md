@@ -1,6 +1,6 @@
 ## 📖Educations：
  - 2024.09-now: Studying in University of Science and Technology of China, Integrated Circuit Engineering for a  M.S. degree.
- - 📫 E-mail:luowei@ustc.edu
+ - 📫 E-mail:luowei AT ustc DOT edu
  ## 🎖️News：
  - 
  
